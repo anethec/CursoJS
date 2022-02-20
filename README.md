@@ -1,6 +1,8 @@
-## Curso JavaScript
+## Curso de JavaScript
 
-Repositório criado no curso de *JavaScript* do Curso em Vídeo com exemplos e atividades desenvolvidas durante as aulas. 
+Repositório criado para os exemplos e atividades que desenvolvi no curso de **JavaScript** do Curso em Vídeo.
+
+Material: [Curso de JavaScript](https://github.com/gustavoguanabara/javascript)
 
 
  
